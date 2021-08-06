@@ -1,2 +1,2 @@
 welcome to git
-this is exp 3
+exp 3
